@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/logo.png" width="200" alt="URGLDN Logo">
-</p>
 The smarter way to pay—so you can stay golden.
 
 Innovative first-hand idea by Shelby Nicolle Isaacs  

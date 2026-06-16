@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="../assets/logo.png" width="180" alt="URGLDN Logo">
-</p>
 # URGLDN – Product Roadmap  
 *A clear path from concept → MVP → pilot → full-scale banking feature.*
 

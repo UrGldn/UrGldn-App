@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="../assets/logo.png" width="180" alt="URGLDN Logo">
-</p>
-# URGLDN – Licensing Package  
+# URGLDN – Licensing qPackage  
 *A complete overview of what a bank or credit union receives when licensing URGLDN.*
 
 ---

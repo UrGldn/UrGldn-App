@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="../assets/logo.png" width="180" alt="URGLDN Logo">
-</p>
 📄 URGLDN – Executive Summary (Bank‑Ready Version)
 URGLDN is a financial wellness tool designed to integrate directly into existing banking apps. It functions like auto‑pay, but smarter: instead of pulling funds blindly on the due date, URGLDN locks the money ahead of time and releases it exactly when the bill is due. This eliminates late fees, reduces overdrafts, and gives users the peace of mind of knowing their bills are handled before they even think about them.
 

@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="../assets/logo.png" width="180" alt="URGLDN Logo">
-</p>
+
 ⭐ URGLDN – Investor One‑Pager
 A timing‑first financial wellness tool built from lived experience — designed for Canadians, scalable globally.
 
@@ -38,6 +36,7 @@ What’s left in the account becomes true spending money
 URGLDN gives people financial peace through timing, not budgeting.
 
 The Problem
+
 Money stress is Canada’s #1 stressor — 44% of Canadians say it’s the biggest source of stress in their lives.
 
 The issue isn’t always income.
@@ -69,15 +68,16 @@ URGLDN removes that stress.
 Set it once — the system handles the timing.
 
 The Solution
+
 URGLDN acts like a personal bill‑timing assistant:
 
 Users link their existing bank accounts (via secure APIs like Plaid or Flinks)
 
-They create “vaults” for each bill
+They create a “vault” for there bills
 
-URGLDN locks the money early
+URGLDN tucks away, locks the money early
 
-The system releases it at the exact right moment
+The system then will release it at the exact right moment
 
 What’s left in the account becomes guilt‑free spending money — because the bills are already handled.
 
@@ -96,34 +96,29 @@ Are overwhelmed by timing and organization
 URGLDN gives them a clean, automated structure that removes the mental load.
 
 Market Opportunity
-Canada has 15 million households.
 
-If even 30% missed at least one payment last year, that’s millions of late fees.
+lets say Canada has roughly 15 million households.
+If even 30% missed at least one payment last year, that’s millions in late fees.
 
 If URGLDN reached:
 
-25% adoption → 1.4 million households helped
-
+25% adoption in canada → Thats roughly 1.4 million households helps
 Saving even $200/year each → $333 million kept in Canadians’ pockets
 
-And that’s only in Canada.
-
-Globally, the timing problem is universal.
-
+Globally, the timing problem is universal so the room for growth is substantial.
 Business Model
 URGLDN has two scalable revenue paths:
 
 1. B2B Licensing (Primary Model)
 Banks, credit unions, neobanks, and payroll platforms license URGLDN as a white‑label feature.
+(White labeling is a business model where one company creates a product or service, and another company rebrands and sells it under its own name. This model allows businesses to offer high-quality solutions without the need for in-house production, instead relying on a third-party provider for fulfillment.)
+
 
 Benefits for institutions:
 
 Fewer overdraft complaints
-
 Higher customer satisfaction
-
 Stronger loyalty
-
 Differentiation in a competitive market
 
 2. Consumer Freemium Model
@@ -131,17 +126,15 @@ Basic vaults are free.
 Premium features include:
 
 Advanced scheduling
-
 Insights
-
 Notifications
-
 Buffer suggestions
-
 Multi‑account support
 
 Optional add‑on revenue:
 Affiliate partnerships + anonymized trend analytics.
+affiliate partnership is a strategic collaboration where a business aligns with external partners—individuals, organizations, or platforms—to promote products or services. Affiliates earn a commission or other compensation based on measurable outcomes such as clicks, leads, or sales, rather than upfront payments. This approach allows both the business and the affiliate to benefit from mutually aligned incentives.
+When supported with anonymized trend analytics, these partnerships harness the power of data without compromising privacy, enabling businesses to optimize performance, forecast trends, and scale strategically based on evidence rather than intuition.
 
 Traction (Concept‑Stage)
 Fully documented product (spec, architecture, roadmap, licensing package)
@@ -174,6 +167,7 @@ Locking and releasing funds
 This prototype shows the simplicity and clarity of the user experience.
 
 Ownership & Deal Structure
+
 URGLDN is fully owned by Shelby Isaacs.
 All concept materials, designs, and written work are protected under copyright.
 
@@ -203,6 +197,7 @@ Seeking:
 A pilot partner (credit union, neobank, or financial institution)
 
 A development partner to build MVP
+Developing a Minimum Viable Product (MVP) requires not only technical execution but strategic alignment with a development partner who understands your vision, goals, and constraints.
 
 Feedback on design, structure, and rollout
 
@@ -212,4 +207,5 @@ URGLDN is ready for the next step.
 
 Tagline
 Set it. Lock it. Forget about it.
-The smarter way to pay… so you can stay golden.
+The smarter way to pay… 
+so you can stay golden

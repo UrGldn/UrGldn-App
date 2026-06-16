@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="../assets/logo.png" width="180" alt="URGLDN Logo">
-</p>
+
 # URGLDN – Branding & Tagline Guide  
 *A clear, confident, timing-first identity for a modern financial wellness tool.*
 

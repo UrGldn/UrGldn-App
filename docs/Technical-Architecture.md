@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="../assets/logo.png" width="180" alt="URGLDN Logo">
-</p>
 # URGLDN – Technical Architecture  
 *A timing-first automation layer designed for seamless bank integration.*
 

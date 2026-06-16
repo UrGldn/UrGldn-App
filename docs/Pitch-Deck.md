@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="../assets/logo.png" width="180" alt="URGLDN Logo">
-</p>
 # URGLDN – Pitch Deck (Text Version)
 *A timing-first financial wellness tool for banks, credit unions, and fintech partners.*
 
