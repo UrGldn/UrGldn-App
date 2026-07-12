@@ -2,17 +2,9 @@
 
 UrGldn is your personal cash-flow companion. It helps you see what's coming, align your bills with your income, and avoid costly surprises—making late fees and bill stress a thing of the past.
 
-That phrase is memorable because it focuses on the outcome users want, not just the features. Pairing it with a clear explanation of how UrGldn achieves that outcome makes for stronger marketing.
+*Meet UrGldn — Your Financial Assistant, Working Quietly in the Background.*
 
-its like a fincancial assistant working for you in the back ground using a lock and release mechanism, that locks ur money in on pay day, and releases it back to your account seamlessly right when the bill is due so that you never have to stress about over spending or late fees nsf giving you peace of mind. and a little more time to enjoy life without all the stressor of bill timing
-
-This is a strong concept. The key is to explain it in a way that's simple, outcome-focused, and easy for users to picture.
-
-Here's a polished version of your idea:
-
-Meet UrGldn — Your Financial Assistant, Working Quietly in the Background.
-
-Imagine having a financial assistant that's always looking out for you.
+"Imagine having a financial assistant that's always looking out for you."
 
 With UrGldn, every payday your bill money is automatically set aside using a secure Lock & Release™ system. Instead of sitting in your spending balance, the money is temporarily "locked" so you won't accidentally spend what's already spoken for.
 
