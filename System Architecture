@@ -1,0 +1,256 @@
+*System Architecture*
+
+Income Deposit
+        │
+        ▼
+Income Detection Engine
+        │
+        ▼
+Contribution Calculator
+        │
+        ▼
+Priority Engine
+        │
+        ▼
+Protected Vault Manager
+        │
+        ▼
+Digital Bill Vaults
+        │
+        ▼
+Release Engine
+        │
+        ▼
+Bill Payment
+
+Each component performs one dedicated function, creating a predictable and scalable financial workflow.
+
+*Income Detection Engine*
+
+The Income Detection Engine monitors incoming deposits and recognizes qualifying income events.
+
+Once income is detected, it immediately triggers the contribution algorithm, eliminating the need for manual budgeting.
+
+Responsibilities include:
+
+Monitoring payroll deposits
+Detecting recurring income
+Triggering automatic calculations
+Initiating scheduled allocations
+Contribution Calculator
+
+The Contribution Calculator determines exactly how much money should be reserved during each income event.
+
+Instead of requiring users to manually divide bills across paychecks, URGLDN performs the calculations automatically.
+
+Example:
+
+Monthly Rent: $1,200
+
+Remaining Paydays: 2
+
+Required Contribution:
+
+$1,200 ÷ 2 = $600 per payday
+
+If income changes unexpectedly, the calculator dynamically adjusts future contributions while still targeting the original due date.
+
+Predictive Funding Formula
+
+The funding engine continuously recalculates required contributions using a dynamic formula.
+
+Required Contribution =
+Remaining Bill Balance
+────────────────────────
+Remaining Income Events
+
+Additional factors may include:
+
+Income amount
+Due date proximity
+Bill priority
+Current vault balance
+User preferences
+Minimum reserve requirements
+
+This allows funding schedules to adapt automatically as financial circumstances change.
+
+Priority Engine
+
+Not every bill carries the same importance.
+
+The Priority Engine ranks financial obligations according to user preferences and predefined categories.
+
+Example priority order:
+
+Mortgage / Rent
+Utilities
+Insurance
+Transportation
+Debt Payments
+Subscriptions
+Entertainment
+
+If income is lower than expected, the engine prioritizes essential obligations first.
+
+Protected Digital Vaults
+
+Each recurring expense is assigned its own protected vault.
+
+Money allocated to a vault is visually separated from available spending funds while remaining fully transparent to the user.
+
+Every vault tracks:
+
+Target Amount
+Current Balance
+Funding Percentage
+Due Date
+Remaining Contributions
+Estimated Completion Date
+Funding Status
+
+Example
+
+Rent
+
+██████████ 100%
+
+Ready for Release
+Insurance
+
+█████████ 92%
+
+Needs $38
+Release Engine
+
+Funds remain protected until their scheduled release.
+
+Once the payment date arrives, the Release Engine authorizes payment according to user-defined preferences.
+
+Possible release methods include:
+
+Scheduled bank transfer
+Bill payment
+Debit authorization
+Future banking integrations
+Financial Readiness Score
+
+Rather than only displaying account balances, URGLDN introduces a Financial Readiness Score.
+
+The score estimates how prepared the user is for upcoming financial obligations.
+
+Factors may include:
+
+Bills fully funded
+Remaining available cash
+Upcoming due dates
+Funding progress
+Cash flow stability
+
+Example:
+*Financial Readiness*
+
+96%
+
+Excellent
+
+*Example User Experience*
+
+Available
+
+$1,842
+
+Protected
+
+$1,366
+
+Upcoming Bills
+
+6
+
+Financial Readiness
+
+96%
+
+*Protected Vaults*
+Rent
+
+██████████
+
+100%
+
+Ready
+Insurance
+
+█████████
+
+92%
+
+Needs $42
+
+Hydro
+
+███████
+
+71%
+
+On Track
+
+*Next Payday*
+Estimated Deposit
+
+$1,245
+
+Automatic Allocation
+
+Rent
+
+$500
+
+Insurance
+
+$110
+
+Hydro
+
+$95
+
+Available After Allocation
+
+$540
+Proprietary Platform Components
+
+URGLDN consists of several conceptual technology layers.
+
+GoldenFlow™
+
+Predictive contribution engine responsible for calculating automatic funding allocations.
+
+GoldenVault™
+
+Protected digital storage system for future financial obligations.
+
+GoldenRelease™
+
+Scheduled payment release engine responsible for delivering funds at the appropriate time.
+
+GoldenSync™
+
+Synchronization layer connecting income events with protected allocations.
+
+GoldenScore™
+
+Financial readiness indicator measuring preparedness for future obligations.
+
+*Long-Term Vision*
+
+URGLDN is envisioned as a financial operating platform capable of integrating with banks, credit unions, payroll providers, fintech platforms, and payment processors.
+
+Rather than replacing existing banking systems, URGLDN is designed to complement them by providing intelligent cash-flow automation and proactive financial planning.
+
+Its objective is to help individuals move from reactive money management to predictive financial readiness.
+
+*Mission Statement*
+
+To empower people with intelligent financial automation that prepares every dollar for its purpose before it is spent, 
+creating greater confidence, stability, and financial peace of mind.
