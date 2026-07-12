@@ -23,8 +23,7 @@ Your money. Protected when it matters. Available when you need it.
 I also like this positioning statement:
 
 UrGldn isn't another budgeting app. It's a financial assistant that works behind the scenes, using our Lock & Release™ system to protect your bill money until it's time to pay—so you can stop stressing about bill timing and start enjoying life with greater peace of mind.
-
-One suggestion: if "Lock & Release™" is central to your product, it could become your signature feature and brand identity. Rather than marketing UrGldn as a budgeting app, position it as the first financial timing platform—focused on making sure the right money is available at the right time. That distinction is easier for people to understand and harder for competitors to copy.
+"Lock & Release™" is central of my product, its *Signature feature* and *brand identity*. when marketing UrGldn, I position it as the first financial timing platform—focused on making sure the right money is available at the right time. That distinction is easy for people to understand and hard for competitors to copy.
 
 
 The smarter way to pay—so you can stay golden.
