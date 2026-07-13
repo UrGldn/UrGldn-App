@@ -53,9 +53,10 @@ Required Contribution:
 
 $1,200 ÷ 2 = $600 per payday
 
-If income changes unexpectedly, the calculator dynamically adjusts future contributions while still targeting the original due date.
+If income changes unexpectedly, the calculator dynamically adjusts future contributions while still targeting the original
+due date.
 
-Predictive Funding Formula
+*Predictive Funding Formula*
 
 The funding engine continuously recalculates required contributions using a dynamic formula.
 
@@ -93,13 +94,14 @@ Entertainment
 
 If income is lower than expected, the engine prioritizes essential obligations first.
 
-Protected Digital Vaults
+*Protected Digital Vaults*
 
 Each recurring expense is assigned its own protected vault.
 
-Money allocated to a vault is visually separated from available spending funds while remaining fully transparent to the user.
+Money allocated to a vault is visually separated from available spending funds while remaining fully transparent to the user 
+in the UrGldn vault
 
-Every vault tracks:
+*Every vault tracks:*
 
 Target Amount
 Current Balance
@@ -244,9 +246,11 @@ Financial readiness indicator measuring preparedness for future obligations.
 
 *Long-Term Vision*
 
-URGLDN is envisioned as a financial operating platform capable of integrating with banks, credit unions, payroll providers, fintech platforms, and payment processors.
+URGLDN is envisioned as a financial operating platform capable of integrating with banks, credit unions, payroll providers,
+fintech platforms, and payment processors.
 
-Rather than replacing existing banking systems, URGLDN is designed to complement them by providing intelligent cash-flow automation and proactive financial planning.
+Rather than replacing existing banking systems, URGLDN is designed to complement them by providing intelligent cash-flow
+automation and proactive financial planning.
 
 Its objective is to help individuals move from reactive money management to predictive financial readiness.
 
